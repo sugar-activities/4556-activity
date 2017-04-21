@@ -1,0 +1,9 @@
+[Activity]
+name = Puzzleton
+service_name = org.teleton.ingenieria.Puzzleton
+exec = sugar-activity Puzzleton.Puzzleton
+icon = activity-hMouse
+activity_version = 2
+license = GPLv3+
+show_launcher = yes
+mime_types = image/bmp;image/gif;image/jpeg;image/png;image/tiff
